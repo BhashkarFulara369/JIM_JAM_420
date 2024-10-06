@@ -4,10 +4,15 @@ Our challenge is to develop a scalable tool that can generate informative and co
 
 # Our Tech Stack
 
-HTML5
-CSS3
-JAVASCRIPT
-Plotly.Js
+HTML5,
+CSS3,
+JAVASCRIPT,
+Plotly.Js,
 
-# Features of Our Webtool
-Visit- 
+# WEB link
+Before Using this side use CORS extension in your browser
+Visit- https://projectbravo.netlify.app/
+
+
+
+
