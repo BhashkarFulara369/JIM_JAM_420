@@ -7,7 +7,7 @@ Our challenge is to develop a scalable tool that can generate informative and co
 HTML5
 CSS3
 JAVASCRIPT
-PYTHON
+Plotly.Js
 
 # Features of Our Webtool
 Visit- 
