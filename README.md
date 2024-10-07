@@ -10,7 +10,7 @@ JAVASCRIPT,
 Plotly.Js,
 
 # WEB link
-Before Using this side use CORS extension in your browser
+
 Visit- https://projectbravo.netlify.app/
 
 
