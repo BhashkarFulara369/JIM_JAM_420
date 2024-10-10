@@ -14,6 +14,6 @@ Plotly.Js,
 Visit- https://projectbravo.netlify.app/
 
 ## TEAM MATES
-<a href="https://github.com/Divyanshu901">* Divyanshu Kandpal</a>
-<a href="https://github.com/spidey999">* Dhruv Kumar </a>
+<a href="https://github.com/Divyanshu901">* Divyanshu Kandpal</a>  <a href="https://github.com/spidey999">* Dhruv Kumar </a>
+
 
