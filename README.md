@@ -15,6 +15,7 @@ Visit   - https://projectbravo.netlify.app/ <br>
 YouTube - https://youtu.be/vES2w56G26s?feature=shared
 
 ## TEAM MATES
+![WhatsApp Image 2024-10-12 at 13 56 08_031d64ae](https://github.com/user-attachments/assets/c7dd6317-7c3b-4f16-aab4-0018306be966)
 <a href="https://github.com/Divyanshu901">* Divyanshu Kandpal</a> <br> <a href="https://github.com/spidey999">* Dhruv Kumar </a>
 
 
