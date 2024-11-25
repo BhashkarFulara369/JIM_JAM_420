@@ -15,7 +15,7 @@ Visit   - https://projectbravo.netlify.app/ <br>
 YouTube - https://youtu.be/vES2w56G26s?feature=shared
 
 ## Project Name
-B.R.A.V.O (Biological Research for Astronomy and Visual Outreach)
+B.R.A.V.O. (Biological Research for Astronomy and Visual Outreach)
 
 # TEAM MATES
 
