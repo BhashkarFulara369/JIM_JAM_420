@@ -23,5 +23,5 @@ B.R.A.V.O. (Biological Research for Astronomy and Visual Outreach)
 <br>
 Ashutosh Bisht <br>
 Bhavesh Joshi <br>
-Anuvesh Chilwal<br>
-
+Anuvesh Chilwal <br>
+Bhashkar Fulara <br>
